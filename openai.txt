@@ -1,0 +1,8 @@
+pip install pandas
+pip install tiktoken
+pip install openai
+pip install matplotlib
+pip install plotly
+pip install scripy
+pip install scipy
+pip install -U scikit-learn scipy matplotlib
